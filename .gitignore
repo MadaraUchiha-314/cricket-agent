@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Cricket data files
+data-store/*.csv
+data-store/**/*.csv
+data-store/**/*.json
